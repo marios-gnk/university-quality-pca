@@ -98,7 +98,7 @@ git clone https://github.com/marios-gnk/university-quality-pca.git
 
 3. Run the script:
 
-```matlab
+```octave
 university_quality_analysis.m
 ```
 
