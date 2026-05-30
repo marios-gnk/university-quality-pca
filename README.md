@@ -58,10 +58,21 @@ The implementation includes:
 * Eigendecomposition of covariance and correlation matrices
 * Principal component extraction and interpretation
 * Kaiser criterion and scree plots for selecting the appropriate number of components
+
+<img src="figures/screeplot_cov.png" width="500">
+
 * Visualization of component loadings and scores
 * Grouping of quality criteria based on component loadings
+
+<img src="figures/loadings_cov.png" width="500">
+
 * Grouping and ranking of universities based on principal component scores
+
+<img src="figures/scores_cov.png" width="500">
+
 * Comparison of Northern and Southern European universities
+
+<img src="figures/north_vs_south_cov.png" width="500">
 
 ---
 
