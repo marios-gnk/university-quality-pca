@@ -52,7 +52,7 @@ The implementation includes:
 
 * Descriptive statistical analysis
 
-<img src="figures/ratings_boxplots.png" width="500">
+<img src="figures/ratings_boxplots.png" width="600">
 
 * Eigendecomposition of covariance and correlation matrices
 * Principal component extraction and interpretation
