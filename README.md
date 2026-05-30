@@ -29,7 +29,7 @@ The dataset consists of average student evaluations for **36 European universiti
 
 Each variable corresponds to the average student rating of the respective criterion for a given university.
 
-To facilitate interpretation, the data were transformed so that higher scores correspond to more favorable evaluations. For example, if a university received an average rating of 1.9 for computer facilities, the transformed score becomes $6-1.9=4.1$
+To facilitate interpretation, the data were transformed so that higher scores correspond to more favorable evaluations. For example, if a university received an average rating of 1.9 for computer facilities, the transformed score becomes $6-1.9=4.1$.
 
 The transformed rating scale nevertheless remains bounded between 1 and 5.
 
