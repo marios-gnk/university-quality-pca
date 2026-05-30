@@ -88,11 +88,7 @@ Some of the main conclusions of the analysis include:
 
 ## ▶️ How to Run
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/marios-gnk/university-quality-pca.git
-```
+1. Clone or download this repository.
 
 2. Open GNU Octave.
 
