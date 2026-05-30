@@ -55,6 +55,9 @@ allowing for a comparative analysis of the resulting principal components and th
 The implementation includes:
 
 * Descriptive statistical analysis
+
+<img src="figures/ratings_boxplots.png" width="500">
+
 * Eigendecomposition of covariance and correlation matrices
 * Principal component extraction and interpretation
 * Kaiser criterion and scree plots for selecting the appropriate number of components
